@@ -103,3 +103,9 @@ Now, for the list of extensions. I'll list links to the VSCode marketplace, as w
   `ext install theme-tomorrowkit-sublime`
 
   > Collection of Tomorrow themes that take advantage of Sublime Babel extension (listed above)
+  
+- [File Icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons)
+
+  `ext install file-icons`
+  
+  > Port of `file-icons` package for Atom
