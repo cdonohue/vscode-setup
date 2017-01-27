@@ -31,8 +31,6 @@ Open the user settings file, `Cmd + ,`. Here, you'll find all of the settings th
   "javascript.validate.enable": false
 }
 ```
-> _Cue the inevitable `tabs` vs `spaces` debate..._
-
 ### Why do you disable javascript validation? 
 > `¯\_(ツ)_/¯` I rely on `ESLint`
 
