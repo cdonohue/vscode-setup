@@ -98,7 +98,7 @@ Now, for the list of extensions. I'll list links to the VSCode marketplace, as w
 
   `ext install sublime-babel-vscode`
 
-  > Significantly improves JavaScript grammar formatting and tokenizing for syntax highlighting
+  > Significantly improves JavaScript grammar formatting and tokenizing
 
 - [GraphQL](https://marketplace.visualstudio.com/items?itemName=mquandalle.graphql)
 
