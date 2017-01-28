@@ -1,5 +1,5 @@
 # VS Code setup 
-The goal of this document is to list out configurations and extensions that I use with VS Code. 
+The goal of this document is to list out configurations and extensions that I use with VS Code. It aims to be more of a concentrated list and less of a "here's the firehose" `awesome-list` (Even though I like awesome lists and all of the work that goes into making them :clap:)
 
 > #### Quick Disclaimer:
 > After using Atom for about 2 years, I have switched to using VS Code. Why? VS Code is fast. It's almost on par with Sublime Text. It also comes with a few more "batteries included" ⚡️ features, like a terminal and git integration. With all of this being said, this document contains opinions. If you agree with them, great! If not, that's also great!
