@@ -1,7 +1,6 @@
 # VS Code setup 
 The goal of this document is to list out configurations and extensions that I use with VS Code. It aims to be more of a concentrated list and less of a "here's the firehose" `awesome-list` (Even though I like awesome lists and all of the work that goes into making them :clap:)
 
-> #### Quick Disclaimer:
 > After using Atom for about 2 years, I have switched to using VS Code. Why? VS Code is fast. It's almost on par with Sublime Text. It also comes with a few more "batteries included" ⚡️ features, like a terminal and git integration. With all of this being said, this document contains opinions. If you agree with them, great! If not, that's also great!
 
 ### Starting out
@@ -20,6 +19,14 @@ The following commands are for switching out the view for the Side Bar on the le
 - `Cmd + Shift + D` show debugging tools
 - `Cmd + Shift + X` show extensions menu
 
+##### Terminal
+`Ctrl + (backtick)` although, you'd probably have an easier time remapping this to something like `Ctrl + '`
+```
+1. Cmd + K, Cmd + S
+2. Add a new shortcut to your personal overrides 
+3. { "key": "ctrl+'", "command": "workbench.action.terminal.toggleTerminal" }
+```
+
 ### Set your User Settings
 Open the user settings file, `Cmd + ,`. Here, you'll find all of the settings that can be modified for VS Code. Once you find one that you want to modify, click next to it and it will be copied over into your own settings file. A few good custom settings to start with are font size and font family.
 
@@ -28,6 +35,7 @@ Open the user settings file, `Cmd + ,`. Here, you'll find all of the settings th
   "editor.fontFamily": "Operator Mono",
   "editor.fontSize": 14,
   "editor.tabSize": 2,
+  "workbench.activityBar.visible": false,
   "javascript.validate.enable": false
 }
 ```
