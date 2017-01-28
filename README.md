@@ -21,11 +21,11 @@ The following commands are for switching out the view for the Side Bar on the le
 
 ##### Terminal
 `Ctrl + (backtick)` although, you'd probably have an easier time remapping this to something like `Ctrl + '`
-```
-1. Cmd + K, Cmd + S
-2. Add a new shortcut to your personal overrides 
-3. { "key": "ctrl+'", "command": "workbench.action.terminal.toggleTerminal" }
-```
+> Easy, just add a new shortcut 
+
+`Cmd + K`, `Cmd + S`
+
+`{ "key": "ctrl+'", "command": "workbench.action.terminal.toggleTerminal" }`
 
 ### Set your User Settings
 Open the user settings file, `Cmd + ,`. Here, you'll find all of the settings that can be modified for VS Code. Once you find one that you want to modify, click next to it and it will be copied over into your own settings file. A few good custom settings to start with are font size and font family.
