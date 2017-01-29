@@ -93,24 +93,12 @@ Now, for the list of extensions. I'll list links to the VSCode marketplace, as w
   `ext install vscode-docker`
 
   > Create dockerfiles. Syntax highlighting and linting. And, Intellisense on image names from Dockerhub.com
-  
-- [Sublime Babel](https://marketplace.visualstudio.com/items?itemName=joshpeng.sublime-babel-vscode)
-
-  `ext install sublime-babel-vscode`
-
-  > Significantly improves JavaScript grammar formatting and tokenizing
 
 - [GraphQL](https://marketplace.visualstudio.com/items?itemName=mquandalle.graphql)
 
   `ext install graphql`
 
   > Syntax highlighting and code snippets for `GraphQL`
-
-- [Tomorrow Kit for Sublime Babel](https://marketplace.visualstudio.com/items?itemName=joshpeng.theme-tomorrowkit-sublime)
-  
-  `ext install theme-tomorrowkit-sublime`
-
-  > Collection of Tomorrow themes that take advantage of Sublime Babel extension (listed above)
   
 - [File Icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons)
 
