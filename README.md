@@ -43,7 +43,7 @@ Open the user settings file, `Cmd + ,`. Here, you'll find all of the settings th
 > `¯\_(ツ)_/¯` I rely on `ESLint`
 
 ### Markdown
-If GitHub markdown styles are your thing, [check this out](https://gist.github.com/cdonohue/f53cbf1d2476b14b431d20ca6ba663d5) 
+If GitHub markdown styles are your thing, [check this out](https://gist.github.com/cdonohue/f53cbf1d2476b14b431d20ca6ba663d5).
 
 ### The Sweet Setup
 Now, for the list of extensions. I'll list links to the VSCode marketplace, as well as the install commands. To install any of these, simply press `Cmd + P` and paste the install command listed next to each extension.
@@ -65,7 +65,8 @@ Now, for the list of extensions. I'll list links to the VSCode marketplace, as w
 
   `ext install npm-intellisense`
 
-  > Completions of node modules in your `package.json` dependencies? ✅ Check.
+  > Completions of node modules in your `package.json` dependencies? Check.
+  
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
   `ext install path-intellisense`
